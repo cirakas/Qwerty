@@ -12,6 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
+<<<<<<< HEAD
         <h1>Hello World!  test</h1>
+=======
+        <h1>Hello World!</h1>
+        <h2>This is our first project..hurrayyy!!! </h2>
+>>>>>>> f8a1e73b70951f2a3b6e06cff7465afd17873850
     </body>
 </html>
