@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello World! This is Joby</h1>
         <p>
             Here is how you would do it in Windows:
             If you don't have git installed, see this article on how to set it up.
