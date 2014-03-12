@@ -39,7 +39,10 @@
             First, create a new repository in this directory git init. This will say "Initialized empty git repository in ....git" (... is the path).
             Now you need to tell git about your files by adding them to your repository. Do this with git add filename. If you want to add all your files, you can do git add .
             Now that you have added your files and made your changes, you need to commit your changes so git can track them. Type git commit -m "adding files". -m lets you add the commit message in line.
+            
+           This is strange i am confused
         </p>
+
         
         <p>
             
@@ -47,5 +50,8 @@
             
         </p>
         
+
+        <p> This is my comment.......!!!SHINY</p>
+
     </body>
 </html>
