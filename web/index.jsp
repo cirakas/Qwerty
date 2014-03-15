@@ -29,5 +29,6 @@
             
               <h1>Edit in vidya branch </h1>
               <h1>REbase test</h1>
+               <h1>rm -fr "c:/Users/cirakaspvt/Documents/GitHub/Qwerty/.git/rebase-apply"</h1>
     </body>
 </html>
