@@ -25,14 +25,13 @@
             
             <h1>Edit from Shiny</h1>
 
-<<<<<<< HEAD
+
             <h4>Hoyyyyyyyyyyy</h4> <h4>Hoyyyyyyyyyyy55</h4>
             
 
             <h4>Hoyyyyyyyyyyy</h4> <h4>Hoyyyyyyyyyyy55</h4>
-=======
-           
->>>>>>> d595f31... commit from branchSix
+  <h1>Edit to check merge</h1>
+
             
               <h1>Edit in vidya branch </h1>
               
